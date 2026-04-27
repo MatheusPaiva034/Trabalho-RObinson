@@ -1,0 +1,14 @@
+C:\Users\Windows 11\source\repos\Exercício 4 – Classe CalculadoraDeSalario\Exercício 4 – Classe CalculadoraDeSalario\bin\Debug\net10.0\Exercício 4 – Classe CalculadoraDeSalario.exe
+C:\Users\Windows 11\source\repos\Exercício 4 – Classe CalculadoraDeSalario\Exercício 4 – Classe CalculadoraDeSalario\bin\Debug\net10.0\Exercício 4 – Classe CalculadoraDeSalario.deps.json
+C:\Users\Windows 11\source\repos\Exercício 4 – Classe CalculadoraDeSalario\Exercício 4 – Classe CalculadoraDeSalario\bin\Debug\net10.0\Exercício 4 – Classe CalculadoraDeSalario.runtimeconfig.json
+C:\Users\Windows 11\source\repos\Exercício 4 – Classe CalculadoraDeSalario\Exercício 4 – Classe CalculadoraDeSalario\bin\Debug\net10.0\Exercício 4 – Classe CalculadoraDeSalario.dll
+C:\Users\Windows 11\source\repos\Exercício 4 – Classe CalculadoraDeSalario\Exercício 4 – Classe CalculadoraDeSalario\bin\Debug\net10.0\Exercício 4 – Classe CalculadoraDeSalario.pdb
+C:\Users\Windows 11\source\repos\Exercício 4 – Classe CalculadoraDeSalario\Exercício 4 – Classe CalculadoraDeSalario\obj\Debug\net10.0\Exercício 4 – Classe CalculadoraDeSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\source\repos\Exercício 4 – Classe CalculadoraDeSalario\Exercício 4 – Classe CalculadoraDeSalario\obj\Debug\net10.0\Exercício 4 – Classe CalculadoraDeSalario.AssemblyInfoInputs.cache
+C:\Users\Windows 11\source\repos\Exercício 4 – Classe CalculadoraDeSalario\Exercício 4 – Classe CalculadoraDeSalario\obj\Debug\net10.0\Exercício 4 – Classe CalculadoraDeSalario.AssemblyInfo.cs
+C:\Users\Windows 11\source\repos\Exercício 4 – Classe CalculadoraDeSalario\Exercício 4 – Classe CalculadoraDeSalario\obj\Debug\net10.0\Exercício 4 – Classe CalculadoraDeSalario.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\source\repos\Exercício 4 – Classe CalculadoraDeSalario\Exercício 4 – Classe CalculadoraDeSalario\obj\Debug\net10.0\Exercício 4 – Classe CalculadoraDeSalario.dll
+C:\Users\Windows 11\source\repos\Exercício 4 – Classe CalculadoraDeSalario\Exercício 4 – Classe CalculadoraDeSalario\obj\Debug\net10.0\refint\Exercício 4 – Classe CalculadoraDeSalario.dll
+C:\Users\Windows 11\source\repos\Exercício 4 – Classe CalculadoraDeSalario\Exercício 4 – Classe CalculadoraDeSalario\obj\Debug\net10.0\Exercício 4 – Classe CalculadoraDeSalario.pdb
+C:\Users\Windows 11\source\repos\Exercício 4 – Classe CalculadoraDeSalario\Exercício 4 – Classe CalculadoraDeSalario\obj\Debug\net10.0\Exercício 4 – Classe CalculadoraDeSalario.genruntimeconfig.cache
+C:\Users\Windows 11\source\repos\Exercício 4 – Classe CalculadoraDeSalario\Exercício 4 – Classe CalculadoraDeSalario\obj\Debug\net10.0\ref\Exercício 4 – Classe CalculadoraDeSalario.dll
