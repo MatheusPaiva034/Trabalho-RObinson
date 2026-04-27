@@ -1,0 +1,14 @@
+C:\Users\Windows 11\source\repos\Exercício 2 – Classe ContaBancaria\Exercício 2 – Classe ContaBancaria\bin\Debug\net10.0\Exercício 2 – Classe ContaBancaria.exe
+C:\Users\Windows 11\source\repos\Exercício 2 – Classe ContaBancaria\Exercício 2 – Classe ContaBancaria\bin\Debug\net10.0\Exercício 2 – Classe ContaBancaria.deps.json
+C:\Users\Windows 11\source\repos\Exercício 2 – Classe ContaBancaria\Exercício 2 – Classe ContaBancaria\bin\Debug\net10.0\Exercício 2 – Classe ContaBancaria.runtimeconfig.json
+C:\Users\Windows 11\source\repos\Exercício 2 – Classe ContaBancaria\Exercício 2 – Classe ContaBancaria\bin\Debug\net10.0\Exercício 2 – Classe ContaBancaria.dll
+C:\Users\Windows 11\source\repos\Exercício 2 – Classe ContaBancaria\Exercício 2 – Classe ContaBancaria\bin\Debug\net10.0\Exercício 2 – Classe ContaBancaria.pdb
+C:\Users\Windows 11\source\repos\Exercício 2 – Classe ContaBancaria\Exercício 2 – Classe ContaBancaria\obj\Debug\net10.0\Exercício 2 – Classe ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\source\repos\Exercício 2 – Classe ContaBancaria\Exercício 2 – Classe ContaBancaria\obj\Debug\net10.0\Exercício 2 – Classe ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\Windows 11\source\repos\Exercício 2 – Classe ContaBancaria\Exercício 2 – Classe ContaBancaria\obj\Debug\net10.0\Exercício 2 – Classe ContaBancaria.AssemblyInfo.cs
+C:\Users\Windows 11\source\repos\Exercício 2 – Classe ContaBancaria\Exercício 2 – Classe ContaBancaria\obj\Debug\net10.0\Exercício 2 – Classe ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\source\repos\Exercício 2 – Classe ContaBancaria\Exercício 2 – Classe ContaBancaria\obj\Debug\net10.0\Exercício 2 – Classe ContaBancaria.dll
+C:\Users\Windows 11\source\repos\Exercício 2 – Classe ContaBancaria\Exercício 2 – Classe ContaBancaria\obj\Debug\net10.0\refint\Exercício 2 – Classe ContaBancaria.dll
+C:\Users\Windows 11\source\repos\Exercício 2 – Classe ContaBancaria\Exercício 2 – Classe ContaBancaria\obj\Debug\net10.0\Exercício 2 – Classe ContaBancaria.pdb
+C:\Users\Windows 11\source\repos\Exercício 2 – Classe ContaBancaria\Exercício 2 – Classe ContaBancaria\obj\Debug\net10.0\Exercício 2 – Classe ContaBancaria.genruntimeconfig.cache
+C:\Users\Windows 11\source\repos\Exercício 2 – Classe ContaBancaria\Exercício 2 – Classe ContaBancaria\obj\Debug\net10.0\ref\Exercício 2 – Classe ContaBancaria.dll
