@@ -1,0 +1,14 @@
+C:\Users\Windows 11\source\repos\Exercício 3 – Classe Produto\Exercício 3 – Classe Produto\bin\Debug\net10.0\Exercício 3 – Classe Produto.exe
+C:\Users\Windows 11\source\repos\Exercício 3 – Classe Produto\Exercício 3 – Classe Produto\bin\Debug\net10.0\Exercício 3 – Classe Produto.deps.json
+C:\Users\Windows 11\source\repos\Exercício 3 – Classe Produto\Exercício 3 – Classe Produto\bin\Debug\net10.0\Exercício 3 – Classe Produto.runtimeconfig.json
+C:\Users\Windows 11\source\repos\Exercício 3 – Classe Produto\Exercício 3 – Classe Produto\bin\Debug\net10.0\Exercício 3 – Classe Produto.dll
+C:\Users\Windows 11\source\repos\Exercício 3 – Classe Produto\Exercício 3 – Classe Produto\bin\Debug\net10.0\Exercício 3 – Classe Produto.pdb
+C:\Users\Windows 11\source\repos\Exercício 3 – Classe Produto\Exercício 3 – Classe Produto\obj\Debug\net10.0\Exercício 3 – Classe Produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\source\repos\Exercício 3 – Classe Produto\Exercício 3 – Classe Produto\obj\Debug\net10.0\Exercício 3 – Classe Produto.AssemblyInfoInputs.cache
+C:\Users\Windows 11\source\repos\Exercício 3 – Classe Produto\Exercício 3 – Classe Produto\obj\Debug\net10.0\Exercício 3 – Classe Produto.AssemblyInfo.cs
+C:\Users\Windows 11\source\repos\Exercício 3 – Classe Produto\Exercício 3 – Classe Produto\obj\Debug\net10.0\Exercício 3 – Classe Produto.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\source\repos\Exercício 3 – Classe Produto\Exercício 3 – Classe Produto\obj\Debug\net10.0\Exercício 3 – Classe Produto.dll
+C:\Users\Windows 11\source\repos\Exercício 3 – Classe Produto\Exercício 3 – Classe Produto\obj\Debug\net10.0\refint\Exercício 3 – Classe Produto.dll
+C:\Users\Windows 11\source\repos\Exercício 3 – Classe Produto\Exercício 3 – Classe Produto\obj\Debug\net10.0\Exercício 3 – Classe Produto.pdb
+C:\Users\Windows 11\source\repos\Exercício 3 – Classe Produto\Exercício 3 – Classe Produto\obj\Debug\net10.0\Exercício 3 – Classe Produto.genruntimeconfig.cache
+C:\Users\Windows 11\source\repos\Exercício 3 – Classe Produto\Exercício 3 – Classe Produto\obj\Debug\net10.0\ref\Exercício 3 – Classe Produto.dll
